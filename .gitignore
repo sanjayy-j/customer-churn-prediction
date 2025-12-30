@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (keep raw data out of git)
+data/
+
+# Environment files
+.env
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
