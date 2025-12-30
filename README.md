@@ -116,12 +116,13 @@ The neural network achieved performance comparable to classical models but did n
 
 ## 📁 Repository Structure
 
+```
 customer-churn-prediction/
 ├── notebooks/
 │   └── churn_analysis.ipynb
 ├── .gitignore
 └── README.md
-
+```
 
 ---
 
