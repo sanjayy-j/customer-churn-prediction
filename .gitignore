@@ -6,7 +6,7 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data files (keep raw data out of git)
+# Data files
 data/
 
 # Environment files
@@ -17,3 +17,4 @@ venv/
 # OS files
 .DS_Store
 Thumbs.db
+
